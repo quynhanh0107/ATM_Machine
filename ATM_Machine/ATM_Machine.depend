@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\admin\c language\programming 1 - 1st period\atm - homework\atm_machine\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1753316059 c:\users\admin\c language\programming 1 - 1st period\atm - homework\atm_machine\atm.h
+
+1753316089 c:\users\admin\c language\programming 1 - 1st period\atm - homework\atm_machine\utils.h
+
+1753316034 source:c:\users\admin\c language\programming 1 - 1st period\atm - homework\atm.c
+	<stdio.h>
+	"atm.h"
+	"utils.h"
+
+1753316059 c:\users\admin\c language\programming 1 - 1st period\atm - homework\atm.h
+
+1753316089 c:\users\admin\c language\programming 1 - 1st period\atm - homework\utils.h
+
+1753673179 source:c:\users\admin\c language\programming 1 - 1st period\atm - homework\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"atm.h"
+	"utils.h"
+
+1753316110 source:c:\users\admin\c language\programming 1 - 1st period\atm - homework\utils.c
+	<stdio.h>
+	"utils.h"
+
